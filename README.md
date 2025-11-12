@@ -6,7 +6,7 @@
 
 Advanced speech recognition system fine-tuned specifically for Kenyan English and Swahili, optimized for individuals with speech impairments. This research explores the effectiveness of fine-tuning Whisper models for nonstandard speech patterns in the Kenyan context.
 
-## 🎯 Research Overview
+## Research Overview
 
 This project addresses the challenge of speech recognition for individuals with speech impairments in Kenya, focusing on:
 
@@ -15,7 +15,7 @@ This project addresses the challenge of speech recognition for individuals with 
 - **Context-Aware Processing**: Prompt tuning for medical and daily communication contexts
 - **Accessibility Focus**: Developing tools for healthcare and education applications
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Live Demo
 Try our interactive demo: [Hugging Face Space](https://huggingface.co/spaces/ElizabethMwangi/whisper-kenyan-asr)
